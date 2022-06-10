@@ -1,0 +1,34 @@
+https://www.aveda.de/ --> xpath in makeup want to select all the product, xpath for facebook logo
+
+https://www.bobbibrowncosmetics.com/ --> all products identify
+//a[@class='product-brief__headline-link js-spp-link']/h3
+ Write an xpath for SHOP NOW button in (https://www.maccosmetics.com/) application
+
+Amazon - Electronics find xpath without using text filed and index
+
+xpath in Amazon.com and it should not contain number, indexing and textfield
+
+xpath on amazon mobiles
+
+xpath on flipkart
+
+xpath on clinique
+xpath on svg tag
+xpath on yahoo
+
+In Money.rediff.com write xpath for getquote and xpath for table in that get third row and third column.
+
+esteelauder.com --> xpath for bag icon
+
+3.xpath
+A. Clinique.com --- bag icon
+B. Yahoo.in --- stay signed in
+C. Flipkart.com --- capture mobile name
+D. Flipkart --- showing 1-360results  (explain how will you capture this element)
+
+https://www.jomalone.com.br/     Xpath for buy button
+
+
+
+
+
