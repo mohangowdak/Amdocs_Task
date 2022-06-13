@@ -1,0 +1,14 @@
+//helps to signin to the application
+https://github.com/login/oauth/authorize
+
+//Valid for 10mins 
+https://github.com/login/oauth/access_token
+
+//client ID
+bcd345949a6a492fcb46
+
+
+//client secrete
+8c54966b4c00b97038a0bac3e1e8d787aed100b7
+
+23758823e243f550e042369a62174d34c67fd099
