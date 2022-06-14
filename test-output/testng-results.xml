@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30962" started-at="2022-06-14T07:06:51Z" finished-at="2022-06-14T07:07:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30962" started-at="2022-06-14T07:06:51Z" finished-at="2022-06-14T07:07:22Z">
+      <class name="com.amdocs.amazonTest.Assignment4">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configBS" is-config="true" duration-ms="16" started-at="2022-06-14T07:06:51Z" finished-at="2022-06-14T07:06:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configBC" is-config="true" duration-ms="11332" started-at="2022-06-14T07:06:51Z" finished-at="2022-06-14T07:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="practicalTest()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="practicalTest" duration-ms="18915" started-at="2022-06-14T07:07:02Z" finished-at="2022-06-14T07:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practicalTest -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configBM" is-config="true" duration-ms="0" started-at="2022-06-14T07:07:02Z" finished-at="2022-06-14T07:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configAM" is-config="true" duration-ms="1" started-at="2022-06-14T07:07:21Z" finished-at="2022-06-14T07:07:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configAC" is-config="true" duration-ms="693" started-at="2022-06-14T07:07:21Z" finished-at="2022-06-14T07:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAS()[pri:0, instance:com.amdocs.amazonTest.Assignment4@31a5c39e]" name="configAS" is-config="true" duration-ms="0" started-at="2022-06-14T07:07:22Z" finished-at="2022-06-14T07:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.amdocs.amazonTest.Assignment4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
